@@ -1,2 +1,2 @@
 # ResponisveWebDesign
-Responisve Web Design Cert. by freeCodeCamp.
+Responisve Web Design Certification by freeCodeCamp.
