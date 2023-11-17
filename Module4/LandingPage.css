@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  #nav-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  main {
+    padding-top: 40px;
+  }
+
+  
+  section {
+    height: 400px;
+    margin: 20px 0;
+    background-color: #eaeaea;
+  }
+
+  #video {
+    width: 100%;
+    height: auto;
+  }
+
+  #form {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #email {
+    padding: 10px;
+  }
+
+  #submit {
+    padding: 10px;
+    background-color: #4caf50; 
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
